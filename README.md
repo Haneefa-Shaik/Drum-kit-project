@@ -4,7 +4,7 @@
 
 ## ✅ Table of contents
 
-- [Drum-kit Project 🚧](https://haneefa-shaik.github.io/Drum-kit-project)
+- [Drum-kit Project](https://haneefa-shaik.github.io/Drum-kit-project)
   - [✅ Table of contents](#-table-of-contents)
   - [✅ General info](#-general-info)
   - [✅ Screenshots](#-screenshots)
